@@ -1,0 +1,17 @@
+{
+	"login": {
+		"title": "نموذج تسجيل الدخول",
+		"username.label": "اسم المستخدم",
+		"username.placeholder": "اسم المستخدم هنا",
+		"password.label": "كلمه السر",
+		"password.placeholder": "أدخل كلمة المرور",
+		"button.name": "تسجيل الدخول",
+		"forgotpassword.link": "هل نسيت كلمة السر?",
+		"register.link": "انشاء حساب جديد",
+		"button.ar": "عربي",
+		"button.en": "إنجليزي",
+		"button.ta": "التاميل",
+		"button.fr": "فرنسي",
+		"button.zh": "صينى"
+	}
+}
